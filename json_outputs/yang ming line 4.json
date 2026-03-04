@@ -1,0 +1,100 @@
+{
+    "document_type": "booking_confirmation",
+    "seller": {
+        "name": "YANG MING LINE (INDIA) PVT. LTD.",
+        "address": "84, 3rd Floor, MMPDA Tower, Royapettah High Road, Chennai -600 014",
+        "phone": "(91-44) 66991111",
+        "fax": [
+            "(91-44) 66991100",
+            "(91-44) 66991101"
+        ],
+        "email": "maa-cs@yml.in",
+        "cin_no": "U63032MH2004PTC145399",
+        "gstin": "33AAACY2172N125",
+        "pan_no": "AAACY2172N",
+        "website": [
+            "https://www.yangming.com/",
+            "www.yml.in"
+        ]
+    },
+    "booking_details": {
+        "booking_no": "E515055090",
+        "date": "05/12/2025",
+        "validity_date": "09/12/2025",
+        "sales_person_customer_service_dept": "DELPHINA"
+    },
+    "customer": {
+        "name": "SHIFTCO SHIPPING & LOGISTICS INDIA PVT LTD",
+        "attention": "AJITH KUMAR"
+    },
+    "shipper": {
+        "name": "SHIFTCO SHIPPING AND LOGISTICS INDIA PVT LTD"
+    },
+    "commodity": "HEAT EXCHANGER",
+    "transport_plan": {
+        "place_of_receipt": "INMAA - CHENNAI (MADRAS)",
+        "loading_port": "INMAA - CHENNAI (MADRAS)",
+        "first_discharge_port": "LKCMB - COLOMBO",
+        "final_discharge": "USORF - NORFOLK, VA",
+        "final_destination": "USORF - NORFOLK, VA",
+        "service_mode": "CY/CY",
+        "vessels": [
+            {
+                "type": "Loading Vessel",
+                "name": "AKA BHUM",
+                "voyage": "CCS2550W - 032W",
+                "etd": {
+                    "location": "INMAA",
+                    "date": "DEC/15"
+                },
+                "eta": {
+                    "location": "LKCMB",
+                    "date": "DEC/17"
+                }
+            },
+            {
+                "type": "Loading Vessel",
+                "name": "ONE MILANO",
+                "voyage": "EC32549E - 031E",
+                "etd": {
+                    "location": "LKCMB",
+                    "date": "DEC/21"
+                },
+                "eta": {
+                    "location": "USORF",
+                    "date": "FEB/02"
+                }
+            }
+        ]
+    },
+    "container_details": {
+        "number_of_containers": "5x 40HQ",
+        "pickup_from": {
+            "name": "INMAAY09 - BAY CONTAINER TERMINAL PRIVATE LIMITED, CHENNAI ( BCT-3)",
+            "address": "NO:16, VICHOOR MAIN ROAD , KULAKKARAT, CHENNAI -600103. TAMIL NADU NEAR KAILASH CFS. India - 600103"
+        },
+        "return_to": {
+            "name": "Chennai International Container Terminal Pvt Ltd (CITPL)",
+            "code": "INMAAP03"
+        },
+        "container_numbers": [
+            "TEMU8797935",
+            "FFAU7001700",
+            "YMLU8696650",
+            "YMMU6737878",
+            "YMMU7123046"
+        ]
+    },
+    "terms_conditions_guidelines": [
+        "Any misdescription or misdeclaration by customers will be charged of Cargo Misdeclaration Fee, please login our web site(https://www.yangming.com/ )} by your ID/password and refer to our customer advisory Charge of Cargo Misdeclaration Fee under [News] / [Customer Advisory].",
+        "The Containers can be picked up by the Shipper or your nominated agent or transporter from the nominated yard by submitting a copy of this Booking Confirmation",
+        "Ensure the empty container received from our yard is in clean and sound condition. No claims will be entertained thereafter. Costs for any subsequent rejection will be to your account.",
+        "Any Loss or damage to the container while in custody of shipper, transporter, and forwarder shall be fully identified for repair /replacement / reimbursement as noticed by owner /hirer.",
+        "Shipper /Forwarder will fully Indemnify the line from any claims for costs, charges, legal expenses, arising from death or injury while in the possession of the shipper/ forwarder/ transporter or their agents.",
+        "As per terminal guidelines, all container doors are to be facing the aft of the trailers while offloading, failing which any additional cost incurred will be at your account",
+        "Original Shipping Bill/ Original EIR/ Original VGM declaration/ Weighment Slip must be submitted to our office soon after container offloaded at CY (Vessel Slot) else Container will not be loaded in planned Vessel/ Voyage.",
+        "At YANG MING we follow no VGM- No Form 13 Policy strictly For VGM details please visit www.yml.in",
+        "Ensure the Roof Bows/Tarpaulin/TIR Cord are intact prior pickup the Equipment.",
+        "Ensure to furnish Survey Report/Photos prior request for form 13."
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "document_type": "booking_confirmation",
+    "seller_details": {
+        "name": "MAERSK A/S",
+        "business_unit": "Maersk India (Mumbai)",
+        "website": "http://www.maersk.com"
+    },
+    "booking_details": {
+        "booking_number": "262486719",
+        "print_date": "2025-11-27",
+        "print_time": "08:44 UTC",
+        "service_mode": "CY/CY",
+        "service_contract_number": "3146909",
+        "price_owner": "BLUELINE FREIGHT FORWARDERS",
+        "named_account_customer": null,
+        "allocation_week": "AllocationWeek-2025/50-VesselName-MAERSK SALALAH-8XF Block space plus",
+        "vessel_name": "MAERSK SALALAH",
+        "commodity_description": "Autoparts, car parts, vehicle parts, motorcycle",
+        "price_calculation_date": "2025-12-09"
+    },
+    "customer_details": {
+        "booked_by_party": "BLUELINE FREIGHT FORWARDERS",
+        "contact_name": "Sri Nivas",
+        "booked_by_reference_number": "INDUSTRIAS 2x40 etd 09 (1)"
+    },
+    "shipping_details": {
+        "origin": {
+            "address": "Ennore Chennai, TAMIL NADU, India"
+        },
+        "destination": {
+            "address": "Izmit Korfezi, Turkey"
+        }
+    },
+    "service_form": {
+        "id": "INENN - Ennore - ME2 / 472",
+        "schedule": {
+            "open": "MON 14:00 hrs",
+            "close": "FRI 10:00 hrs"
+        },
+        "gate_schedule": {
+            "open": "MON 18:00 hrs",
+            "close": "6Hrs prior ETA/ SSR till 3Hrs after ETA"
+        },
+        "cut_offs": {
+            "si": "THU 12:00 hrs",
+            "dpe": "SAT 13:00 hrs",
+            "doc": "SAT 13:00 hrs"
+        }
+    },
+    "equipment_summary": [
+        {
+            "quantity": 2,
+            "size_type_height": "40 DRY 96",
+            "gross_weight": {
+                "value": 46000.0,
+                "unit": "KGS"
+            },
+            "package_quantity_kind": "2 Piece(s)",
+            "cargo_volume": null
+        }
+    ],
+    "payment_information": {
+        "online_pay_solution": {
+            "name": "India Online-Pay Solution on Maersk.com",
+            "currency": "INR",
+            "methods": [
+                "online bank transfers",
+                "UPI"
+            ],
+            "features": [
+                "Zero fees",
+                "24/7 instant, touch-free freight release"
+            ]
+        },
+        "nftp_guide": {
+            "url": "https://www.maersk.com/news/articles/2023/10/20/step-by-step-guide-for-paid-to-release-and-delivery-option-on-maersk",
+            "effective_date": "2023-11-07"
+        }
+    },
+    "notes_and_terms": [
+        {
+            "type": "price_calculation_date_definition",
+            "non_fmc_shipments": "PCD is the Estimated Time of Departure (ETD) of the first vessel in the latest booking confirmation issued upon customer request.",
+            "fmc_shipments": "PCD is the date on which Maersk Line A/S or one of its authorised agent(s) takes possession of the last container listed on the transport document.",
+            "fmc_regulated_trades_note": "FMC regulated trades are shipments exiting or entering a port in the United States, Guam, US Virgin Islands, American Samoa or Puerto Rico (US)."
+        },
+        {
+            "type": "sanctions_compliance",
+            "details": "The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and export control laws (Sanctions Laws), and that this shipment and/or Goods does not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person).",
+            "russia_policy_url": "https://www.maersk.com/news/articles/2022/02/24/russia-ukraine-situation-update",
+            "russia_policy_details": "The shipment and/or Goods do not involve any products that incorporate Russian origin steel or iron inputs, whether or not the shipment and/or Goods are processed and/or transhipped in any third country. If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia, Sanctions Laws or involves any Designated Person, the shipment will be returned to the origin at the Carriers sole and unfettered discretion, and the Merchant(s) shall indemnify and hold harmless the Carrier, its servants and agents, for any breach of this clause. The Merchant(s) agree that the Carrier may stop the shipment and/or Goods in transit or withhold release of the shipment and/or Goods pending any investigation into compliance with this clause by the Merchant(s).",
+            "final_compliance_note": "This booking confirmation is subject to compliance with Maersk policy on shipments to Russia (available on maersk.com) and UN, EU and US sanction and export control laws, including US and EU sanctions laws applicable to Russia (Sanctions)"
+        },
+        {
+            "type": "general_terms_and_conditions",
+            "urls": [
+                "http://www.maersk.com",
+                "https://terms.maersk.com/"
+            ],
+            "details": [
+                "This booking and carriage are subject to the Maersk Terms and Conditions of Carriage which are available upon request from the carrier or his representatives and are furthermore accessible on the Maersk website under \u201cTerms and conditions\u201d or the same can be checked in https://terms.maersk.com/",
+                "The shipment is subject to tariff rates unless a correct and applicable service contract number is available",
+                "The carrier's right to substitute the named and/or performing vessel(s) with another vessel or vessels at any time.",
+                "Arrival, berthing, departure and transit times are estimated and given without guarantee and subject to change without prior notice",
+                "All dates/times are given as reasonable estimates only and subject to change without prior notice."
+            ]
+        },
+        {
+            "type": "usa_shipments_specific_requirements",
+            "details": "This document is given subject to the customer providing the correct cargo description in accordance with U.S. law, including U.S. Customs requirements as described in Customs Rules and Regulations, 19 CFR Parts 4, 113 and 178 of October 31, 2002"
+        }
+    ]
+}

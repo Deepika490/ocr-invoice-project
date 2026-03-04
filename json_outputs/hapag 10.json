@@ -1,0 +1,149 @@
+{
+    "document_type": "booking_confirmation",
+    "document_id": "BOBC0201-060TB",
+    "seller_details": {
+        "company_name": "HAPAG-LLOYD INDIA PVT. LTD.",
+        "address": "501,5TH FLOOR SATELLITE GAZEBO,, B-WING,GURU HARGOVINDJI MARG, ANDHERI(EAST), MUMBAI 400093, INDIA",
+        "role": "AS AGENT",
+        "contact": {
+            "phone": "+91 18002660323",
+            "email": "India@service.hlag.com",
+            "website": "WWW.HLAG.COM"
+        },
+        "registered_office": {
+            "city": "Hamburg",
+            "company_register": "Amtsgericht Hamburg HRB 97937"
+        },
+        "supervisory_board_chairman": "Michael Behrendt",
+        "executive_board": [
+            "Rolf Habben Jansen (CEO)",
+            "Donya-Florence Amer",
+            "Dheeraj Bhatia",
+            "Mark Frese",
+            "Dr. Maximilian Rothkopf"
+        ],
+        "scac_code": "HLCU"
+    },
+    "buyer_details": {
+        "company_name": "TVS SCS GLOBAL FREIGHT SOLUTIONS LIMITED",
+        "address": "OLD NO 10 NEW NO 19, 2ND AND 3RD FLOOR,, BLUE HAVEN, HARRINGTON ROAD CHENNAI 600031, INDIA",
+        "contact": {
+            "phone": "04442678900",
+            "email": "SEAEXP.MAA_ INGFS@TVSSCS.COM"
+        }
+    },
+    "booking_metadata": {
+        "our_reference": "28594023",
+        "your_reference": "ZF - CHARLSTON",
+        "booking_confirmation_number": "28594023",
+        "bl_iswb_numbers": "HLCUBO12512AVPBO",
+        "booking_date": "13-Dec-2025",
+        "date_of_issue": "14-Dec-2025 04:44:25",
+        "quotation_no": "V251200356791",
+        "internal_codes": "Hi DG HTemp. \u2014j00OG SOW",
+        "page_info": "1 of 3"
+    },
+    "shipment_summary": {
+        "export_type": "FCL /Merchant's Haulage (CY)",
+        "import_type": "FCL /Merchant's Haulage (CY)"
+    },
+    "container_details": [
+        {
+            "number": 1,
+            "type": "45GP",
+            "sow": "N",
+            "empty_pick_up_date": "14-Dec-2025",
+            "empty_pick_up_depot": "ARIES CONTAINER",
+            "additional_info": {
+                "container_type_description": "40' X 8' X 9'6\" HIGH CUBE CONT.",
+                "commodity_description": "AUTO PARTS",
+                "gross_weight": {
+                    "value": 19000.0,
+                    "unit": "KGM"
+                }
+            }
+        }
+    ],
+    "shipping_route": {
+        "export": {
+            "empty_pick_up_depot": {
+                "name": "ARIES CONTAINER TERMINAL(ACT)",
+                "address": "NO-42, PONNERI HIGH ROAD MANALI NEWTOWN, TAMIL NADU CHENNAI 600 103, INDIA"
+            },
+            "terminal_delivery_address": {
+                "name": "NHAVA SHEVA INDIA GATEWAY TERMINAL PRIVATE LIMITED OPERATIONS CENTRE",
+                "address": "SHEVA NAVI MUMBAI 400707, INDIA"
+            },
+            "port_of_loading": {
+                "name": "NHAVA SHEVA",
+                "code": "INNSA"
+            },
+            "vessel": "TOLTEN",
+            "voyage_number": "5151",
+            "dp_voyage": "671674",
+            "imo_number": "9612870",
+            "call_sign": "D5AD7",
+            "flag": "LIBERIA",
+            "estimated_time_of_departure": "22-Dec-2025 00:01"
+        },
+        "import": {
+            "port_of_discharge": {
+                "name": "CHARLESTON, SC",
+                "code": "USCHS"
+            },
+            "terminal_pick_up_address": {
+                "name": "WANDO WELCH TERMINAL",
+                "firms_code": "N598",
+                "address": "400 LONG POINT ROAD MOUNT PLEASANT, SC 29464 USA"
+            },
+            "estimated_time_of_arrival": "01-Feb-2026 07:00"
+        }
+    },
+    "deadlines_and_actions": [
+        {
+            "type": "Estimated time of arrival",
+            "location": "NHAVA SHEVA (INNSA)",
+            "date_time": "20-Dec-2025 08:00",
+            "required_action": "Complete your security filing at least 24h prior to this date"
+        },
+        {
+            "type": "VGM cut-off",
+            "location": "NHAVA SHEVA (INNSA)",
+            "date_time": "19-Dec-2025 06:00",
+            "required_action": "Provide verified container gross weight (VGM)"
+        },
+        {
+            "type": "Earliest container delivery date",
+            "location": "NHAVA SHEVA (INNSA)",
+            "date_time": "16-Dec-2025 06:00",
+            "required_action": "First possible delivery of containers at the export terminal"
+        },
+        {
+            "type": "FCL delivery cut-off",
+            "location": "NHAVA SHEVA (INNSA)",
+            "date_time": "19-Dec-2025 06:00",
+            "required_action": "Last possible delivery of regular containers at the export terminal"
+        }
+    ],
+    "customs_details": {
+        "requirements": "Direct: USA (AMS/ISF)"
+    },
+    "notes": [
+        "This booking confirmation is subject to receiving of all relevant bill of lading / sea waybill data from the shipper in due time respectively according to local documentation closing dates/times.",
+        "For this booking our Quick Quotes Spot Terms & Conditions apply which you can obtain from our website via the following link: Quick_Quotes_Spot_Terms",
+        "We would once again inform you weight deviation charge is applicable to export shipments, pls refer below link for more details https:/Awww.hapag-lloyd.com/en/services-information/news/202 1/08/here- s-an-update-for-weight-deviation-fee--fio--for-india-export.html",
+        "PLEASE ENSURE TO REFER OUR WEBSITE FOR DETAILED BOOKING CONFIRMATION REMARKS/INSTRUCTIONS WWW.HLAG.COM (HTTP:/AWWW.HLAG.COM)",
+        "LOCAL INFO INDIA SUBCONTINENT INDIA LOCAL DOCUMENTS BOOKING CONFIRMATION RE MARKS. ENSURE TO CHECK THE CNTR/S AVAILABILITY BEFORE SENDING TRAILER. FOR ICD ORIGINATING BOOKINGS, IN CASE CONTAINERS HANDED OVER AT RESPECTIVE ICDS PRIOR 10 DAYS OF INTENDED/BOOKED VESSEL ARRIVAL, ALL COST OF STORAGE AT ICD/GATEWAY PORTS WOULD BE TO THE ACCOUNT OF CUSTOMER.",
+        "PLEASE SUBMIT YOUR SHIPPING INSTRUCTIONS ONLINE IN OUR WEBSITE https:/Awww.hapag-lloyd.com/en/online-business/documentation/shipping- instructions/shipping-instruction-online.html"
+    ],
+    "legal_terms": [
+        "All dates/times are best reasonable estimates and may change.",
+        "The booking confirmation is subject to sealing of container with high security seals by shipper.",
+        "Container stowage on vessel is in Carrier's discretion.",
+        "Carrier operates under its Bill of Lading/Sea Waybill terms and conditions which are incorporated herein by reference with the same force and effect as though fully set forth herein and which will be provided upon request or displayed in any of Carrier's/its agent's offices or under www.hapag-lloyd.com, containing liability limitations deviating from German law.",
+        "As to VGM, CL 11.2 applies and shipper agrees that submission of VGM by third parties on his behalf shall be deemed authorized if such message shows: Match of container and shipment number, name of responsible party (shipper) and person authorized by shipper.",
+        "Carrier may ask for further information due to country requirements and relies in the correctness of the transmitted data.",
+        "Carrier will not verify authorization or VGM.",
+        "Shipper shall monitor its VGM on _www.hapag-lloyd.com/en/my_shipments.html and shall notify Carrier promptly if VGM is not correct."
+    ]
+}

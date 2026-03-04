@@ -1,0 +1,140 @@
+{
+    "document_type": "Booking Notice",
+    "issuer": {
+        "name": "KOREA MARINE TRANSPORT CO, LTD",
+        "office_location": "CHENNAI, INDIA MAA OFFICE",
+        "acting_as_agent_for": "Korea Marine Transport Co., Ltd."
+    },
+    "recipient_terminal": {
+        "name": "EMPEZAR GLOBAL CONTAINER TERMINAL",
+        "address": {
+            "street": "NO : 726, Ponneri High Road, Behind D.R Logistics",
+            "locality": "Vallur, NCTPS Post",
+            "city": "Chennai",
+            "postal_code": "600120",
+            "state": "Tamil Nadu",
+            "country": "India"
+        },
+        "phone": "+91-9512717863"
+    },
+    "booking_party": {
+        "name": "SHIFTCO SHIPPING & LOGISTICS INDIA PV",
+        "fax": "044-42019519"
+    },
+    "booking_metadata": {
+        "notice_number": "726",
+        "date": "2025-12-11 20:19:15",
+        "validity": "3 DAYS FROM PICKUP DATE",
+        "booking_number": "IN00511289",
+        "booking_date": "2025-12-11",
+        "vessel": "WAN HAI 522",
+        "voyage": "E035",
+        "route_details": [
+            {
+                "labels": [
+                    "POR",
+                    "DLY",
+                    "1st TS"
+                ],
+                "origin_port": "KATTUPALLI, INDIA",
+                "destination_port": "PASIR GUDANG",
+                "port_of_loading_indicator": "POL"
+            },
+            {
+                "labels": [
+                    "POL",
+                    "POD",
+                    "2nd TS"
+                ],
+                "origin_port": "KATTUPALLI, INDIA",
+                "destination_port": "PASIR GUDANG",
+                "port_of_loading_indicator": "POL"
+            }
+        ],
+        "estimated_time_of_departure": "2025-12-16",
+        "port_of_discharge_eta": "2025-12-22",
+        "container_details": [
+            {
+                "type": "40 HC",
+                "quantity": 1
+            }
+        ],
+        "place_of_stuffing": null,
+        "special_cargo_address": null,
+        "pickup_date": "2025-12-11",
+        "door_remark": null,
+        "gross_weight": 6748.0,
+        "commodity": "SPOOLS",
+        "pda_document_closing_time": "2025-12-13 23:59",
+        "cargo_closing_time": "2025-12-13 23:59",
+        "freight_term": "Freight Prepaid",
+        "status": "FULL"
+    },
+    "contact_information": {
+        "operation_team": {
+            "members": [
+                {
+                    "name": "Mr.Murthy",
+                    "mobile": "+919840723080"
+                },
+                {
+                    "name": "Mr.Leo Antony Cyril",
+                    "mobile": "+919840998926"
+                },
+                {
+                    "name": "Mr.Siva Sankar",
+                    "mobile": "+919345763854"
+                }
+            ],
+            "email": "maaops@ekmtc.com"
+        },
+        "export_docs_team": {
+            "members": [
+                {
+                    "name": "Mr.Mohanakrishnan",
+                    "phone": "+914466067716"
+                },
+                {
+                    "name": "Mr.Selva Karthick",
+                    "phone": "+914466067715"
+                },
+                {
+                    "name": "Mr.Gopinath",
+                    "phone": "+914466067722"
+                },
+                {
+                    "name": "Mr.Vijayamaheswara",
+                    "phone": "+914466067714",
+                    "mobile": "+919840998912"
+                }
+            ],
+            "email": "maaed@ekmtc.com",
+            "related_documents": [
+                "BL DRAFT",
+                "INVOICE",
+                "SEAWAY B/L",
+                "SURRENDER BL",
+                "BL RELATED"
+            ]
+        }
+    },
+    "general_remarks": [
+        "Please collect seal from Depot :"
+    ],
+    "notices_to_parties": {
+        "header": "NOTICE TO SHIPPER'S / CHA'S / FORWARDER'S / BOOKING PARTY'S",
+        "items": [
+            "Ensure the empty container received from our yard is in clean and sound condition. Costs for any subsequent rejection will be to your account.",
+            "Any loss or damage to the container while in custody of shipper, transporter, forwarder shall be fully indemnified for repair / replacement / reimnrusement as notified by owner / hired.",
+            "Shipper / Forwarder will fully indemnify the line from any claims for costs, charges, legal expenses, arising from death or injury caused to any person, or damage to any property arising out of use, operation, or transportation of these containers while in the possession of the shipper / forwarder / transporter or their agents.",
+            "Please ensure to stuff the cargo as per Plot Permission, failing which all the consequences will be to your account."
+        ]
+    },
+    "detention_charges_policy": "Once the container is picked up, same has to be returned after stuffing within 10 days failing which detention charges will be applicable.",
+    "subtotal": null,
+    "tax_details": null,
+    "discount": null,
+    "total_amount": null,
+    "currency": null,
+    "payment_terms": "Freight Prepaid"
+}

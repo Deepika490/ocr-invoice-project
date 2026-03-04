@@ -1,0 +1,129 @@
+{
+    "document_metadata": {
+        "document_date": "DEC 25",
+        "document_time": "16:15"
+    },
+    "seller_details": {
+        "brand_name": "ONE OCEAN NETWORK EXPRESS",
+        "company_name": "OCEAN NETWORK EXPRESS (INDIA) PRIVATE LIMITED - MUMBAI",
+        "contact_person": "Chenna Viswesh",
+        "phone": null,
+        "website": "https://www.one-line.com/en/standard-page/b/l-terms"
+    },
+    "buyer_details": {
+        "company_name": "SHIFTCO, SHIPPING / SHIFTCO SHIPPING & LOGISTICS INDIA PRIVATE LIMITED",
+        "phone": "91-44-48579401",
+        "fax": "91-44-48579501"
+    },
+    "booking_details": {
+        "booking_number": "MAAF42089700",
+        "booking_reference_number": "MAAF42089700",
+        "booking_date": "22Nov25",
+        "booking_staff": "WEB_DXB",
+        "sales_representative": "Vignesh P",
+        "export_reference_number": "ONEYMAAF42089700",
+        "rate_agreement_number": "TMAANO07 194"
+    },
+    "parties_involved": {
+        "shipper": "SHIFTCO SHIPPING & LOGISTICS INDIA PRIVATE LIMITED",
+        "forwarder": "SHIFTCO SHIPPING & LOGISTICS"
+    },
+    "carrier_details": {
+        "pre_carrier": {
+            "name": "NRT - X-PRESS AQUARIUS 043E(TE1)",
+            "latest_eta_etd": "05Dec25/07Dec25",
+            "ccn": "9936991",
+            "imo_flag_call_sign": "SINGAPORE/9V8714",
+            "nrt": 13109
+        },
+        "trunk_vessel": {
+            "name": "ONE COMPETENCE 096E(PS3)",
+            "latest_eta_etd": "15Dec25/18Dec25",
+            "imo_flag_call_sign": "9339662/JAPANIT IVE",
+            "nrt": 48328
+        },
+        "post_carrier": null,
+        "mrn_korea_only": null
+    },
+    "route_details": {
+        "place_of_receipt": "KATTUPALLI PORT",
+        "port_of_loading": "KATTUPALLI PORT",
+        "port_of_discharging": "CAI MEP",
+        "place_of_delivery": "CAI MEP",
+        "transshipment_port": "SINGAPORE",
+        "ocean_route_type": "Non-direct",
+        "proforma_1st_vessel_etd": "30Nov25",
+        "port_of_loading_terminal": "KATTUPALLI INTERNATIONAL CONTAINER",
+        "port_of_discharging_terminal": "TCIT (TAN CANG CAIMEP INTL TERMINAL)",
+        "pod_del_eta": "19Dec25 / 19Dec25",
+        "revenue_delivery_term": "CY/ICY"
+    },
+    "cargo_details": {
+        "equipment": [
+            {
+                "type": "20'DRY ST.",
+                "quantity": 1
+            },
+            {
+                "type": "40'DRY HC.",
+                "quantity": 5
+            }
+        ],
+        "commodity": "SPOOLS & BOBBINS, OF PLASTICS",
+        "estimated_weight": {
+            "value": 36700.0,
+            "unit": "KGS"
+        }
+    },
+    "logistics_details": {
+        "empty_pick_up": {
+            "cy": "BALMER LAWRIE N. CO. LTD",
+            "date": "30Nov25 00:00",
+            "address": "Balmer Lawrie N. Co. Ltd 32 Sathankadu Village Manali Chennai 600068",
+            "phone": "9080501283",
+            "yard_pic": null
+        },
+        "full_return": {
+            "cy": "KATTUPALLI INTERNATIONAL",
+            "date": "04Dec25 20:15",
+            "address": "Kattupalli International Container Terminal Kattupalli Village Ponneri Taluk Tiruvallur District",
+            "phone": "25267001",
+            "yard_pic": null
+        }
+    },
+    "cut_off_dates": {
+        "document_cut_off": "03Dec25 00:00",
+        "customs_cut_off": null,
+        "vgm_cut_off": "04Dec25 20:15",
+        "port_cargo_cut_off": "04Dec25 20:15",
+        "rail_receiving_date": null
+    },
+    "special_cargo_information": {
+        "dangerous": false,
+        "reefer": false,
+        "reefer_temperature_set": null,
+        "shippers_own_container": false,
+        "break_bulk": false,
+        "awkward": false
+    },
+    "remarks": [
+        "See attached rider.",
+        "PLS CONTACT CS TEAM FOR CARTING & EGM CUT OFF DETAILS DO VALIDITY TILL * 03/12/2025 4237359 (MID NIGHT) HRS",
+        "If the Goods and/or Container(s) are handed"
+    ],
+    "general_instructions_and_clauses": [
+        "THE ABOVE BOOKING IS SUBJECT TO CHANGE FOR DELIVERY DATE/TIME AS WELL AS TO VESSEL SPACE. VESSEL SCHEDULE MAY BE CHANGED WITHOUT NOTICE. ANY DATE/TIME ABOVE IS FOR MERCHANT\u2019S REFERENCE ONLY AND WITHOUT ANY GUARANTEE.",
+        "THIS DELIVERY ORDER IS ONLY VALID TILL 3 DAYS FROM THE DATE OF ISSUE ( AND CAN BE REVALIDATED AS PER LINES (ONE ) DISCRETION . PRIOR TO PICK UP AND CHECKING THE CONTAINER(S) DAMAGES SOUND AND CLEAN CONTAINERS. OR ALL CHARGES INCURRED, THEREAFTER IF DAMAGED / DIRTY CONTAINERS RETURNED TO PORT/ EMPTY CONTAINER YARD WILL BE ON SHIPPER'S ACCOUNT. IF REPAIRS CANNOT BE CARRIED OUT IN INDIA, THE ENTIRE COST INVOLVED IN RE POSITIONING THE UNIT FROM INDIA TO ANY OTHER COUNTRY FOR REPAIRS WOULD BE PART OF OUR CLAIM.",
+        "RESPONSIBILITY /INSURANCE SHIPPER OR HIS NOMINATED AGENT OR HIS TRANSPORTER WHO PICKS UP THE CONTAINER AGAINST THIS BOOKING CONFIRMATION WOULD BE RESPONSIBLE FOR ALL, DIRECT AND INCIDENTAL COSTS AND CONSEQUENCES ARISING OUT OF ANY DAMAGE TO THE CONTAINER, FROM PICK-UP OF CONTAINER FROM OUR EMPTY YARD / CFS / ICD TILL GATE IN OF THE SAME IN THE PORT / ICD. RESPONSIBILITY OF ARRANGING FOR INSURANCE FOR THIS PERIOD, FROM PICKUP DATE TILL GATE IN OF CONTAINER, WILL REST WITH THE SHIPPER OR HIS NOMINATED AGENT OR HIS TRANSPORTER.",
+        "THE OCEAN NETWORK EXPRESS PTE LTD (ONE) BILL OF LADING TERMS ARE HEREBY INCORPORATED AND IN THE EVENT OF ANY CONFLICTING TERMS CONTAINED HEREIN, THE ONE BILL OF LADING TERMS SHALL PREVAIL. A COPY OF THE TERMS MAY BE AVAILABLE ON REQUEST OR ONLINE AT HTTPS://WWW.ONE-LINE.COM/EN/STANDARD-PAGE/B/L-TERMS",
+        "HAZ CARGO PLEASE ENSURE APPROPRIATE HAZ PLACARDS/ LABELS ARE DULY AFFIXED ON ALL FOUR SIDES OF THE CONTAINER PRIOR TO GATE IN AT TERMINAL / ICD( CY POINT) AS PER THE IMDG CODE GUIDELINES. ANY FINES FOR NON- AFFIXING OF APPROPRIATE HAZ PLACARDS/LABELS WOULD BE RECOVERED FROM CUSTOMER",
+        "MOVEMENT OF CONTAINERS CONTAINERS ARE MOVED BY EXPORTER / C & F AGENTS AT THEIR OWN RISK AND COST. ANY DAMAGE TO THE CONTAINER SHALL BE BORNE BY EXPORTER / C & F AGENTS.",
+        "TIME LINES ALL DATES AND TIMES ARE GIVEN AS BEST REASONABLE ESTIMATES SUBJECT TO CHANGE. CONTAINER DETENTION CHARGES WILL BE APPLICABLE AS PER TARIFF FROM THE CONTAINER PICK UP DATE.",
+        "FOOT NOTES SHOULD THE GOVERNMENT AUTHORITIES DRI/ CUSTOMS/ SIIB ETC. ORDERS FOR CONTAINERS TO BE BROUGHT BACK FOR THE INVESTIGATION, THEN THE RETURN FREIGHT, DETENTION, DEMURRAGE AND ALL OTHER COSTS WILL BE ON SHIPPER'S ACCOUNT. INCLUDING EXTRA SEAL CHARGES",
+        "CARRIER WILL NOT VERIFY AUTHORIZATION OR VGM. SHIPPER SHALL MONITOR ITS VGM AND SHALL NOTIFY CARRIER PROMPTLY IF VGM IS NOT CORRECT.",
+        "IF REEFER CONTAINER IS GATED IN WITH TEMPERATURE VARIANCE OF MORE /LESS THAN 5 DEG. CELSIUS THAN ADDITIONAL CHARGES FROM PORT WOULD BE RECOVERED FROM THE CUSTOMER.",
+        "ONE LINE WILL NOT ACCEPT ANY RESPONSIBILITY AND LIABILITY OF TOWARDS CARGO IF IT IS STUFFED IN REEFER CONTAINER WITHOUT PRE- COOLING (HOT LOAD) .",
+        "WITHOUT COPY OF THE ONE BOOKING RECEIPT NOTICE CONTAINERS WILL NOT BE ALLOTTED.",
+        "CONSIGNEE/NOTIFY PARTY DETAILS WITH COMPLETE ADDRESS, TEL, EMAIL ID, TAX ID IF ANY SHOULD BE MENTIONED IN THE SHIPPING INSTRUCTIONS ENABLE US TO SEND THE B/L DRAFT IN A TIMELY MANNER. INCOMPLETE DETAILS WILL LEAD TO NON COMPLETION OF THE BL, CORRECTION DELAYS AND MANIFEST DELAYS AND WE WILL NOT BE RESPONSIBLE FOR ANY PENALTY, COST AND CONSEQUENCES."
+    ]
+}

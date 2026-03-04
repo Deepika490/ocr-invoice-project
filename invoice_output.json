@@ -1,0 +1,53 @@
+{
+    "invoice_type": "Proforma Invoice",
+    "invoice_number": null,
+    "invoice_issue_date": "2025-07-25",
+    "due_date": "2025-08-24",
+    "booking_no": "EXPSKYB0334",
+    "booking_reference": "144FX10264",
+    "place_of_supply": null,
+    "port_of_loading": "Chennai Port",
+    "supplier": {
+        "name": "SKYB TRANS PRIVATE LIMITED",
+        "address": "No.19A,BHARATHIAR STREET, MEENAMBAKKAM,CHENNATL IN.PIN \u2014 600027.",
+        "phone": "+91 9840928505",
+        "email": "info@skybtrans.com",
+        "gst": "33ABNCS2626M 1ZZ"
+    },
+    "recipient": {
+        "name": "SHIFTCO SHIPPING & LOGISTICS INDIA PRIVATE LIMITED",
+        "address": "DOOR NO.1 / PLOT NO:62 Bharathi Nagar 4th Street, T. Nagar CHENNAI TAMIL NADU-600017",
+        "phone": "8939895129",
+        "email": "expsea_maa@shiftcoship.com",
+        "gst": "33AAWCS0758C1Z8"
+    },
+    "cargo_details": {
+        "cargo_weight_kg": 6728,
+        "number_of_containers": "1",
+        "container_type": "40 HC",
+        "container_number": "GCXU5348033",
+        "vehicle_number": "TN88K7754"
+    },
+    "line_items": [
+        {
+            "description": "TRANSPORTATION CHARGES - ORIGIN",
+            "hsn_code": null,
+            "amount": 16500,
+            "gst_percentage": 12,
+            "sgst_amount": 990,
+            "cgst_amount": 990
+        }
+    ],
+    "subtotal": 16500,
+    "total_tax": 1980,
+    "net_payable": 18480,
+    "amount_in_words": "EIGHTEEN THOUSAND FOUR HUNDRED AND EIGHTY RUPEES ONLY",
+    "bank_details": {
+        "account_name": null,
+        "bank_name": null,
+        "account_number": null,
+        "ifsc_code": null,
+        "swift_code": null
+    },
+    "terms_and_conditions": []
+}

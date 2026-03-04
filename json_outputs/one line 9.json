@@ -1,0 +1,112 @@
+{
+    "document_type": "booking_confirmation",
+    "document_metadata": {
+        "document_title": "Booking Receipt Notice",
+        "document_generation_date": "DEC 25 12:45",
+        "page_number": "1/3"
+    },
+    "seller_details": {
+        "company_name": "OCEAN NETWORK EXPRESS (INDIA) PRIVATE LIMITED - MUMBAI",
+        "parent_company": "ONE OCEAN NETWORK EXPRESS",
+        "contact_person": "Renamala Keerthana",
+        "phone": null,
+        "website": "https://www.one-line.com/en/standard-page/b/l-terms"
+    },
+    "buyer_details": {
+        "company_name": "SHIFTCO, SHIPPING / SHIFTCO SHIPPING & LOGISTICS INDIA PRIVATE LIMITED",
+        "phone": "91-44-48579401",
+        "fax": "91-44-48579501"
+    },
+    "booking_details": {
+        "booking_number": "MAAF42810600",
+        "booking_reference_number": "MAAF42810600",
+        "booking_date": "27Nov25",
+        "booking_staff": "WEB_DXB",
+        "sales_representative": "Vignesh P",
+        "bill_of_lading_number": "ONEYMAAF42810600",
+        "rate_agreement_number": "TMAANO0719A"
+    },
+    "parties_involved": {
+        "shipper": "SHIFTCO SHIPPING & LOGISTICS INDIA PRIVATE LIMITED",
+        "forwarder": "SHIFTCO SHIPPING & LOGISTICS"
+    },
+    "vessel_information": {
+        "pre_carrier": {
+            "name": "NRT 7 BACHOO20E(TE1)"
+        },
+        "trunk_vessel": {
+            "name": "CCN",
+            "imo_flag_call_sign": "9436458/LIBERIA/A8RV5"
+        },
+        "post_carrier": {
+            "name": "NRT > 15938 _ NRT 99946",
+            "imo_flag_call_sign": "9629108/TAIWANIBKKH"
+        }
+    },
+    "shipping_schedule": {
+        "latest_eta_etd": "19Dec25/21Dec25",
+        "proforma_1st_vessel_etd": "14Dec25",
+        "empty_pick_up_date": "14Dec25 00:00",
+        "full_return_date": "18Dec25 18:30",
+        "document_cut_off": "17Dec25 00:00",
+        "customs_cut_off": null,
+        "vgm_cut_off": "18Dec25 18:30",
+        "port_cargo_cut_off": "18Dec25 18:30",
+        "rail_receiving_date": null,
+        "pod_del_eta": "25Jan26 / 25Jan26",
+        "delivery_order_validity": "14/12/2025 23:59 (MID NIGHT) HRS"
+    },
+    "shipping_locations": {
+        "place_of_receipt": "KATTUPALLI PORT",
+        "port_of_loading": {
+            "name": "KATTUPALLI PORT",
+            "terminal": "KATTUPALLI INTERNATIONAL CONTAINER"
+        },
+        "port_of_discharging": {
+            "name": "KAOHSIUNG CITY",
+            "terminal": "KAOHSIUNG 7 TERMINAL"
+        },
+        "place_of_delivery": {
+            "name": "KAOHSIUNG CITY",
+            "terminal": "TIS"
+        },
+        "transit_port": "SINGAPORE"
+    },
+    "shipment_details": {
+        "ocean_route_type": "Non-direct",
+        "revenue_delivery_term": "CYICY",
+        "equipment_type_quantity": "40'DRY HC.-2",
+        "commodity": "ACTIVATED CARBON",
+        "estimated_weight": {
+            "value": 45000.0,
+            "unit": "KGS"
+        }
+    },
+    "empty_pick_up_location": {
+        "name": "BALMER LAWRIE N. CO. LTD",
+        "address": "Balmer Lawrie N. Co. Ltd 32 Sathankadu Village Manali Chennai 600068",
+        "phone": "9080501283",
+        "yard_pic": null
+    },
+    "full_return_location": {
+        "name": "KATTUPALLI INTERNATIONAL",
+        "address": "Kattupalli International Container Terminal Kattupalli Village Ponneri Taluk Tiruvallur District",
+        "phone": "25267001",
+        "yard_pic": null
+    },
+    "special_cargo_information": {
+        "dangerous": false,
+        "reefer": false,
+        "shippers_own_container": false,
+        "break_bulk": false,
+        "awkward": false
+    },
+    "notes": [
+        "THE ABOVE BOOKING IS SUBJECT TO CHANGE FOR DELIVERY DATE/TIME AS WELL AS TO VESSEL SPACE. VESSEL SCHEDULE MAY BE CHANGED WITHOUT NOTICE. ANY DATE/TIME ABOVE IS FOR MERCHANT\u2019S REFERENCE ONLY AND WITHOUT ANY GUARANTEE.",
+        "Customer Service : Thank you for choosing ONE"
+    ],
+    "terms_and_conditions": [
+        "PLS CONTACT CS TEAM FOR CARTING & EGM CUT OFF DETAILS DO VALIDITY TILL * 14/12/2025 *23359 (MID NIGHT) HRS DEAR CUSTOMER GOOD DAY KINDLY GO THROUGH THE FOLLOWING CLAUSES ( GENERAL INSTRUCTIONS ) FOR YOUR EXPORT SHIPMENT WITH ON THIS DELIVERY ORDER IS ONLY VALID TILL 3 DAYS FROM THE DATE OF ISSUE ( AND CAN BE REVALIDATED AS PER LINES (ONE ) DISCRETION . PRIOR TO PICK UP AND CHECKING THE CONTAINER(S) DAMAGES SOUND AND CLEAN CONTAINERS. OR ALL CHARGES INCURRED, THEREAFTER IF DAMAGED / DIRTY CONTAINERS RETURNED TO PORT/ EMPTY CONTAINER YARD WILL BE ON SHIPPER'S ACCOUNT. IF REPAIRS CANNOT BE CARRIED OUT IN INDIA, THE ENTIRE COST INVOLVED IN RE POSITIONING THE UNIT ROM INDIA TO ANY OTHER COUNTRY FOR REPAIRS WOULD BE PART OF OUR CLAIM. RESPONSIBILITY /INSURANCE SHIPPER OR HIS NOMINATED AG 7] NT OR HIS TRANSPORTER WHO PICKS UP THE CONTAINER AGAINST THIS BOOKING CONFIRMATION WOU BE RESPONSIBLE FOR ALL, DIRECT AND INCIDENTAL COSTS AND CONSEQUENCES ARISING OUT OF ANY DAMAG TO THE CONTAINER, FROM PICK-UP OF CONTAINER FROM OUR EMPTY YARD / Cc fo D S \u2122] FI EF FS / ICD TILL GATE IN OF THE SAME IN THE PORT / ICD. RESPONSIBILITY OF ARRANGING FOR INSURANCE OR THIS PERIOD, FROM PICKUP DATE TILL GATE IN OF CONTAINER, WILL REST WITH THE SHIPPER OR HIS OMINATED AGENT OR HIS TRANSPORTER. L TERMS. [THE OCEAN NETWORK EXPRESS PTE LTD (ONE) BILL OF LADING TERMS ARE HEREBY INCORPORATED AND IN HE EVENT OF ANY CONFLICTING TERMS CONTAINED HEREIN, THE ONE BILL OF LADING TERMS SHALL PREVAIL. A COPY OF THE TERMS MAY BE AVAILABLE ON REQUEST OR ONLINE AT HTTPS://WWW.ONE-LINE.COM/EN/STANDARD-PAGE/B/L-TERMS HAZ CARGO PLEASE ENSURE APPROPRIATE HAZ PLACARDS/ LABELS ARE DULY AFFIXED ON ALL FOUR SIDES OF THE CONTAINER PRIOR TO GATE IN AT TERMINAL / ICD( CY POINT) AS PER THE IMDG CODE GUIDELINES. ANY FINES FOR NON- AFFIXING OF APPROPRIATE HAZ PLACARDS/LABELS WOULD BE RECOVERED FROM CUSTOMER MOVEMENT OF CONTAINERS CONTAINERS ARE MOVED BY EXPORTER / C & F AGENTS AT THEIR OWN RISK AND COST. ANY DAMAGE TO THE CONTAINER SHALL BE BORNE BY EXPORTER / C & F AGENTS. oe 5 | q TIME LINES ALL DATES AND TIMES ARE GIVEN AS BEST REASONABLE ESTIMATES SUBJECT TO CHANGE. CONTAINER DETENTION CHARGES WILL BE APPLICABLE AS PER TARIFF FROM THE CONTAINER PICK UP DATE. FOOT NOTES SHOULD THE GOVERNMENT AUTHORITIES DRI/ CUSTOMS/ SIIB ETC. ORDERS FOR CONTAINERS TO BE BROUGHT BACK FOR THE INVESTIGATION, THEN THE RETURN FREIGHT, DETENTION, DEMURRAGE AND ALL OTHER COSTS WILL BE ON SHIPPER'S ACCOUNT. INCLUDING EXTRA SEAL CHARGES CARRIER WILL NOT VERIFY AUTHORIZATION OR VGM. SHIPPER SHALL MONITOR ITS VGM AND SHALL NOTIFY CARRIER PROMPTLY IF VGM IS NOT CORRECT. IF REEFER CONTAINER IS GATED IN WITH TEMPERATURE VARIANCE OF MORE /LESS THAN 5 DEG. CELSIUS THAN ADDITIONAL CHARGES FROM PORT WOULD BE RECOVERED FROM THE CUSTOMER. ONE LINE WILL NOT ACCEPT ANY RESPONSIBILITY AND LIABILITY OF TOWARDS CARGO IF IT IS STUFFED IN REEFER CONTAINER WITHOUT PRE- COOLING (HOT LOAD) . WITHOUT COPY OF THE ONE BOOKING RECEIPT NOTICE CONTAINERS WILL NOT BE ALLOTTED. \"CONSIGNEE/NOTIFY PARTY DETAILS WITH COMPLETE ADDRESS, TEL, EMAIL ID, TAX ID IF ANY SHOULD BE MENTIONED IN THE SHIPPING INSTRUCTIONS ENABLE US TO SEND THE B/L DRAFT IN A TIMELY MANNER. INCOMPLETE DETAILS WILL LEAD TO NON COMPLETION OF THE BL, CORRECTION DELAYS AND MANIFEST DELAYS AND WE WILL NOT BE RESPONSIBLE FOR ANY PENALTY, COST AND CONSEQUENCES.\"",
+        "\"If the Goods and/or Container(s) are handed over by the Merchant at the Inland Container Depot (ICD) under Merchant Haulage, the risk, liability, and responsibility of han\""
+    ]
+}

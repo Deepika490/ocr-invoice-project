@@ -1,0 +1,187 @@
+{
+    "document_type": "booking_confirmation",
+    "seller": {
+        "company_name": "HAPAG-LLOYD INDIA PVT. LTD.",
+        "role": "AS AGENT",
+        "address": "501,5TH FLOOR SATELLITE GAZEBO,, B-WING,GURU HARGOVINDJI MARG, ANDHERI(EAST), MUMBAI 400093, INDIA",
+        "contact": {
+            "name": "HAPAG-LLOYD INDIA PVT. LTD.",
+            "phone": "+91 18002660323",
+            "email": "India@service.hlag.com"
+        },
+        "website": "www.hapag-lloyd.com"
+    },
+    "parent_company": {
+        "company_name": "Hapag-Lloyd Aktiengesellschaft",
+        "registered_office": "Hamburg",
+        "company_register": "Amtsgericht Hamburg HRB 97937",
+        "eori_code": "DE2742004",
+        "supervisory_board": {
+            "chairman": "Michael Behrendt"
+        },
+        "executive_board": [
+            {
+                "name": "Rolf Habben Jansen",
+                "title": "CEO"
+            },
+            {
+                "name": "Donya-Florence Amer"
+            },
+            {
+                "name": "Dheeraj Bhatia"
+            },
+            {
+                "name": "Mark Frese"
+            },
+            {
+                "name": "Dr. Maximilian Rothkopf"
+            }
+        ]
+    },
+    "buyer": {
+        "company_name": "HELLMANN WORLDWIDE LOGISTICS PVT LTD",
+        "address": "NEW NO.12, OLD NO.20, RAGHAVIAH ROAD, T.NAGAR CHENNAI 600017, INDIA",
+        "contact": {
+            "name": "VAKEESON TROTSKY",
+            "phone": "4443930606",
+            "email": "vakeeson.trotsky@hellmann.com"
+        }
+    },
+    "booking_details": {
+        "our_reference": "27419751",
+        "your_reference": "$2501472010 \u20ac\u20ac",
+        "bl_iswb_nos": "HLCUMA3251202010",
+        "summary": "Export: 1x45GP",
+        "date_of_issue": "01-Dec-2025 10:30:59",
+        "booking_date": "01-Dec-2025 102242036",
+        "contract_no": "Hi DG HTemp. \u2014j00OG SOW"
+    },
+    "shipping_details": {
+        "export": {
+            "empty_pick_up_depot": {
+                "name": "ARIES CONTAINER ARIES CONTAINER TERMINAL(ACT)",
+                "address": "NO-42, PONNERI HIGH ROAD MANALI NEWTOWN, TAMIL NADU CHENNAI 600 103, INDIA",
+                "type": "ORIGINAL FCL /Merchant's Haulage (CY)"
+            },
+            "terminal_delivery_address": {
+                "name": "ADANI ENNORE CONTAINER TERMINAL PRIVATE LIMITED",
+                "address": "C/O KAMARAJAR PORT LTD, VALLUR POST CHENNAI, ENNORE 600120, INDIA"
+            }
+        },
+        "import": {
+            "type": "FCL /Merchant's Haulage (CY)",
+            "terminal_pick_up_address": {
+                "name": "GDYNIA CONTAINER TERMINAL SP. Z 0.0",
+                "address": "UL. ENERGETYKOW 5 81-184 GDYNIA POLAND"
+            }
+        },
+        "voyage_legs": [
+            {
+                "from": "ENNORE",
+                "from_code": "INENR",
+                "to": "HAMBURG",
+                "to_code": "DEHAM",
+                "transport_mode": "Vessel",
+                "vessel_name": "MAERSK SALALAH",
+                "etd": "09-Dec-2025 08:00",
+                "eta": "16-Jan-2026 23:00",
+                "departure_terminal": "ADANI ENNORE CTA",
+                "arrival_terminal": "ALTENWERDER DP",
+                "voyage": "671998",
+                "voyage_no": "550W",
+                "imo_no": "9352016",
+                "call_sign": "VRVN3",
+                "flag": "HONG KONG"
+            },
+            {
+                "from": "HAMBURG",
+                "from_code": "DEHAM",
+                "to": "GDYNIA",
+                "to_code": "PLGDY",
+                "transport_mode": "Vessel",
+                "vessel_name": "EMOTION",
+                "etd": "21-Jan-2026 23:00",
+                "eta": "23-Jan-2026 12:00",
+                "departure_terminal": "CTA,ALTENWERDER DP",
+                "arrival_terminal": "GCT TERMINAL",
+                "voyage": "674897",
+                "voyage_no": "2604E",
+                "imo_no": "9359258",
+                "call_sign": "PBKY",
+                "flag": "NETHERLANDS"
+            }
+        ],
+        "deadlines": [
+            {
+                "type": "VGM cut-off",
+                "location": "ENNORE",
+                "location_code": "INENR",
+                "date_time_local": "05-Dec-2025 08:00",
+                "required_action": "Provide verified container gross weight (VGM)"
+            },
+            {
+                "type": "Earliest container delivery date",
+                "location": "ENNORE",
+                "location_code": "INENR",
+                "date_time_local": "01-Dec-2025 12:00",
+                "required_action": "First possible delivery of containers at the export terminal"
+            },
+            {
+                "type": "FCL delivery cut-off",
+                "location": "ENNORE",
+                "location_code": "INENR",
+                "date_time_local": "06-Dec-2025 12:00",
+                "required_action": "Last possible delivery of regular containers at the export terminal"
+            },
+            {
+                "type": "Estimated time of arrival",
+                "location": "ENNORE",
+                "location_code": "INENR",
+                "date_time_local": "06-Dec-2025 06:00",
+                "required_action": "For information"
+            }
+        ]
+    },
+    "containers": [
+        {
+            "no": 1,
+            "type": "45GP",
+            "sow": "N",
+            "empty_pick_up_date_time": "01-Dec-2025",
+            "empty_pick_up_depot": "ARIES CONTAINER",
+            "container_type_description": "40' X 8' X 9'6\" HIGH CUBE CONT.",
+            "commodity_description": "Compressor Housing Assembly",
+            "gross_weight": 15000.0,
+            "gross_weight_unit": "KEM"
+        }
+    ],
+    "customs_details": {
+        "frob": [
+            "EU (ICS2)",
+            "UK CUST"
+        ],
+        "ics2_rules_note": "As per ICS2 rules: If you would like us to file a full ENS (i.e. incl. house level and/or buyer/seller data), please provide us with the relevant data in your shipping instructions within doc / SI cut off, otherwise please submit the EORI of the next filing party (self-filer / supplementary declarant). Please note that EU customs authorities will require complete ENS data from 1 September 2025. If you do not provide us with your partial ENS data, you will need to make other arrangements to submit the data to the customs authorities. Without complete ENS data, customs authorities at EU ports may not release the cargo."
+    },
+    "notes": [
+        {
+            "type": "FIO Charges remark",
+            "text": "We would once again inform you weight deviation charge is applicable to export shipments, pls refer below link for more details",
+            "link": "https://www.hapag-lloyd.com/en/services-information/news/2021/08/here-s-an-update-for-weight-deviation-fee--fio--for-india-export.html"
+        },
+        {
+            "type": "General Information",
+            "text": "PLEASE ENSURE TO REFER OUR WEBSITE FOR DETAILED BOOKING CONFIRMATION REMARKS/INSTRUCTIONS",
+            "link": "WWW.HLAG.COM (HTTP:/AWWW.HLAG.COM)"
+        },
+        {
+            "type": "Local Info India Subcontinent",
+            "text": "INDIA LOCAL DOCUMENTS BOOKING CONFIRMATION RE MARKS. ENSURE TO CHECK THE CNTR/S AVAILABILITY BEFORE SENDING TRAILER. FOR ICD ORIGINATING BOOKINGS, IN CASE CONTAINERS HANDED OVER AT RESPECTIVE ICDS PRIOR 10 DAYS OF INTENDED/BOOKED VESSEL ARRIVAL, ALL COST OF STORAGE AT ICD/GATEWAY PORTS WOULD BE TO THE ACCOUNT OF CUSTOMER."
+        },
+        {
+            "type": "Shipping Instructions",
+            "text": "PLEASE SUBMIT YOUR SHIPPING INSTRUCTIONS ONLINE IN OUR WEBSITE",
+            "link": "https://www.hapag-lloyd.com/en/online-business/documentation/shipping-instructions/shipping-instruction-online.html"
+        }
+    ],
+    "legal_terms": "All dates/times are best reasonable estimates and may change. The booking confirmation is subject to sealing of container with high security seals by shipper. Container stowage on vessel is in Carrier's discretion. Carrier operates under its Bill of Lading/Sea Waybill terms and conditions which are incorporated herein by reference with the same force and effect as though fully set forth herein and which will be provided upon request or displayed in any of Carrier's/its agent's offices or under www.hapag-lloyd.com, containing liability limitations deviating f"
+}
