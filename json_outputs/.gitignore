@@ -1,17 +1,8 @@
 
-# Ignore virtual environment
 venv/
-
-# Ignore Python cache
 __pycache__/
 *.pyc
-
-# Ignore environment file
 .env
-
-# Ignore output files
-json_outputs/
-
-# Ignore OS files
-.DS_Store
-Thumbs.db
+*.pdf
+invoice_output.json
+invoice_text_output.txt
